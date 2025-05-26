@@ -10,4 +10,7 @@ From a quick google search, we can find that the NEO-6M GPS module seems to be t
 
 As of 5/25/25, I've spent at least 3 hours fiddling with various parts of the project and researching. 
 
-Tomorrow, I'll work on finishing the schematic (by adding the remaining components: OLED display, 5 buttons) and configuring the PCB. The next day (that I can work), I'll make some mockup software and add finishing touches to the PCB. Finally, it'll be time to submit the project, and cobble together my FastFoodFinder compass!
+Tomorrow, I'll work on finishing the schematic (by adding the remaining components: magnetometer, GPS module, OLED display, 5 buttons) and configuring the PCB. The next day (that I can work), I'll make some mockup software and add finishing touches to the PCB. Finally, it'll be time to submit the project, and cobble together my FastFoodFinder compass!
+
+---
+# 5/26/2025
